@@ -28,7 +28,6 @@ Este repositório reúne um indice sobre os projetos desenvolvidos durante **Boo
 - [Modelagem de Banco de Dados E-Commerce](https://github.com/Claudio-Sanches/ecommerce.git)
 - [Modelo de Banco de Dados Oficina Mecânica](https://github.com/Claudio-Sanches/Oficina.git)
 - [Projeto Lógico E-Commerce](https://github.com/Claudio-Sanches/Dashboard-excel.git)
-- [Projeto Lógico Oficina](https://github.com/Claudio-Sanches/Projeto-logico-oficina.git)
 - [Dashboard de Vendas Xbox com Excel](https://github.com/Claudio-Sanches/Dashboard-excel.git)
 
 ---
