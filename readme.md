@@ -28,6 +28,7 @@ Este repositório reúne um indice sobre os projetos desenvolvidos durante **Boo
 - [Modelagem de Banco de Dados E-Commerce](https://github.com/Claudio-Sanches/ecommerce.git)
 - [Modelo de Banco de Dados Oficina Mecânica](https://github.com/Claudio-Sanches/Oficina.git)
 - [Projeto Lógico E-Commerce](https://github.com/Claudio-Sanches/Dashboard-excel.git)
+- [Projeto Lógico Oficina](https://github.com/Claudio-Sanches/Projeto-logico-oficina.git)
 - [Dashboard de Vendas Xbox com Excel](https://github.com/Claudio-Sanches/Dashboard-excel.git)
 
 ---
@@ -90,6 +91,17 @@ Utilizei MySQL, MySQL Workbench, SQL e VSCode + Copilot.
 Intrutor(a): Juliana Mascarenhas a quem agradeço
 
 ---
+
+### Projeto Lógico Oficina mecânica
+Modelo Lógico de banco de dados baseado na Modelagem conceitual desenvolvida para sistema de Oficina Mecânica em atividade anterior. Arquivos criados:
+
+- criar_db.sql - Cria as tabelas do banco de dados
+- popular-db.sql - Pupula as tabelas
+- recuperar1-db.sql - Recupera as informações conforme solicitado na atividade
+- crud_ordem_servico.py
+
+CRUD de ordens de serviço em Python, com instruções para instalação de dependências e uso de um menu interativo no terminal.
+Intrutor(a): Juliana Mascarenhas a quem agradeço
 
 ### Dashboard de Vendas Xbox com Excel
 Projeto de dashboard em Excel para análise de vendas do Xbox Game Pass. O arquivo contém as seguintes pastas:
