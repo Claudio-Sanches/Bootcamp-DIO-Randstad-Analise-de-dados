@@ -27,7 +27,7 @@ Este repositório reúne um indice sobre os projetos desenvolvidos durante **Boo
 - [Laboratório DIO - Análise de Sentimentos](https://github.com/Claudio-Sanches/Laboratorio-DIO-Analise-de-Sentimentos.git)
 - [Modelagem de Banco de Dados E-Commerce](https://github.com/Claudio-Sanches/ecommerce.git)
 - [Modelo de Banco de Dados Oficina Mecânica](https://github.com/Claudio-Sanches/Oficina.git)
-- [Projeto Lógico E-Commerce](https://github.com/Claudio-Sanches/Dashboard-excel.git)
+- [Projeto Lógico E-Commerce](https://github.com/Claudio-Sanches/Projeto-L-gico.git)
 - [Dashboard de Vendas Xbox com Excel](https://github.com/Claudio-Sanches/Dashboard-excel.git)
 
 ---
