@@ -1,4 +1,3 @@
-
 # Repositório de Projetos - Bootcamp DIO - Randstad Análise de Dados
 
 Este repositório reúne um indice sobre os projetos desenvolvidos durante **Bootcamp DIO - Randstad Analise da Dados** da Digital Innovation One (DIO), onde foi abordando:
@@ -27,8 +26,10 @@ Este repositório reúne um indice sobre os projetos desenvolvidos durante **Boo
 - [Laboratório DIO - Análise de Sentimentos](https://github.com/Claudio-Sanches/Laboratorio-DIO-Analise-de-Sentimentos.git)
 - [Modelagem de Banco de Dados E-Commerce](https://github.com/Claudio-Sanches/ecommerce.git)
 - [Modelo de Banco de Dados Oficina Mecânica](https://github.com/Claudio-Sanches/Oficina.git)
-- [Projeto Lógico E-Commerce](https://github.com/Claudio-Sanches/Dashboard-excel.git)
+- [Projeto Lógico E-Commerce](https://github.com/Claudio-Sanches/Projeto-L-gico.git)
+- [Projeto Lógio Oficina mecânica](https://github.com/Claudio-Sanches/Projeto-logico-oficina.git)
 - [Dashboard de Vendas Xbox com Excel](https://github.com/Claudio-Sanches/Dashboard-excel.git)
+- [Dashboar de Vendas em Power BI](https://github.com/Claudio-Sanches/Dashboard-Vendas.git)
 
 ---
 
@@ -102,14 +103,32 @@ Modelo Lógico de banco de dados baseado na Modelagem conceitual desenvolvida pa
 CRUD de ordens de serviço em Python, com instruções para instalação de dependências e uso de um menu interativo no terminal.
 Intrutor(a): Juliana Mascarenhas a quem agradeço
 
+---
+
 ### Dashboard de Vendas Xbox com Excel
 Projeto de dashboard em Excel para análise de vendas do Xbox Game Pass. O arquivo contém as seguintes pastas:
 - **Bases**: Base de dados detalha dos assinantes, como nome, plano, data de início, renovação automática, descontos e valores pagos.
 - **Dashboard Year**: Indicadores anuais, número de assinaturas, valores vendidos, participação em passes de temporada (EA Play, Minecraft) e renovação automática.
 - **Dashboard Month**: Gráficos mensais de vendas por plano, período de assinatura e produto, permitindo análise detalhada do desempenho ao longo do tempo.
-Intrutor(a): Felipão DIO a quem agradeço
+Instrutor(a): Felipão DIO a quem agradeço
 
 ---
 
-> by CBS construido no VScode com auxílio do chatGPT
+### Dashboard de Vendas em Power BI
+Este projeto consiste na criação de um Dashboard de vendas utilizando uma amostra de dados financeiros. O desafio inclui a replicação de páginas já desenvolvidas durante o curso e a criação de uma terceira página com visuais específicos no Power BI:
+- Mapa com soma de vendas e unidades vendidas por pais
+- Mapa com soma do lucro por pais
+- Gráfico de pizza com lucro por segmento
+
+O relatorio deve ser organizado, com nomes claros nos visuais, uso de dicas de ferramentas relevantes e publicação do resultado. O projeto deve ser compartilhado como suplemento no PowerPoint ou salvo diretamento no Power BI.
+
+Os arquivos principais são:
+- Dashboar Vendas.pdf: visualização dos indicadores e gráficos de vendas
+- Financial Sample.xlsx: base de dados para análise
+
+---
+
+
+
+> by CBS construido no VSCode com auxílio do Copilot
 
