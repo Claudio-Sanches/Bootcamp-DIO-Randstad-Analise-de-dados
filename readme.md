@@ -30,6 +30,7 @@ Este repositório reúne um indice sobre os projetos desenvolvidos durante **Boo
 - [Projeto Lógio Oficina mecânica](https://github.com/Claudio-Sanches/Projeto-logico-oficina.git)
 - [Dashboard de Vendas Xbox com Excel](https://github.com/Claudio-Sanches/Dashboard-excel.git)
 - [Dashboar de Vendas em Power BI](https://github.com/Claudio-Sanches/Dashboard-Vendas.git)
+- [Relatório Gerencial de Vendas](https://github.com/Claudio-Sanches/Relatorio_Gerencial.git)
 
 ---
 
@@ -125,10 +126,14 @@ O relatorio deve ser organizado, com nomes claros nos visuais, uso de dicas de f
 Os arquivos principais são:
 - Dashboar Vendas.pdf: visualização dos indicadores e gráficos de vendas
 - Financial Sample.xlsx: base de dados para análise
+Intrutor(a): Juliana Mascarenhas a quem agradeço
 
 ---
 
+### Relatório Gerencial de Vendas
+Este projeto foi desenvolvido como parte do desafio proposto pela DIO, utilizando a base de dados "Financial Sample" e recursos avançados do Power BI para criar um relatório gerencial interativo e completo. Foram aplicados conceitos de navegação, segmentação, visualização de dados e publicação no Power BI Service, seguindo as melhores práticas recomendadas.
+Instrutor(a): Juliana Mascarenhas a quem agradeço
 
-
+---
 > by CBS construido no VSCode com auxílio do Copilot
-
+---
